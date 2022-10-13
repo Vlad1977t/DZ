@@ -1,2 +1,3 @@
 a = 5
-print(a)
+b=27
+if b != a and b!=78-54:print(a)
